@@ -1,2 +1,2 @@
 # Dating-Match-Classifier
-A classifier that predicts your probability of finding a match during a dating event. This project involves in-depth Data Cleaning and Preprocessing, Exploratory Data Analysis, Modelling and Evaluation.
+A classifier that predicts your probability of finding a match during a dating event. This project involves in-depth Data Cleaning and Preprocessing, Exploratory Data Analysis, Modelling and Evaluation. For modelling, a Logistic Regression model was built from scratch, including all of the operations for computing and optimizing the weights and the bias, predicting and outputting the binary values, as well as the probability values.
